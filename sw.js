@@ -4,7 +4,7 @@
                Network-only para el Worker (API de Odoo/Telegram)
    ============================================================ */
 
-const CACHE = 'gonder-almacen-v4';
+const CACHE = 'gonder-almacen-v5';
 const ASSETS = [
   './index.html',
   './manifest.json',
